@@ -19,8 +19,3 @@ A lightweight platform that provides property and neighborhood "vibe" recommenda
 | **Backend**     | Node.js, Express.js |
 | **Database**    | PostgreSQL (or SQLite for simplicity) |
 | **Machine Learning** | Python (Sc
-
-
-```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/dynamic-neighborhood-insights.git
-cd dynamic-neighborhood-insights
