@@ -1,10 +1,10 @@
-# 🌍 Dynamic Neighborhood Insights (Simplified Version)
+# 🌍 Dynamic Neighborhood Insights 
 
 A lightweight AI-powered platform that provides basic property recommendations based on user preferences, past stays, and nearby events.
 
 ---
 
-## Features (Simplified)
+## Features 
 - 🏡 **Basic Property Recommendations** – Users get suggestions based on budget, location, and past stays.
 - 📍 **Nearby Events** – Displays upcoming events in the selected neighborhood.
 - 🏙 **Neighborhood Insights** – Shows general safety ratings and local trends.
@@ -12,7 +12,7 @@ A lightweight AI-powered platform that provides basic property recommendations b
 
 ---
 
-## Tech Stack (Simplified)
+## Tech Stack 
 | **Technology**  | **Purpose** |
 |-----------------|------------|
 | **Frontend**    | React.js, Tailwind CSS |
