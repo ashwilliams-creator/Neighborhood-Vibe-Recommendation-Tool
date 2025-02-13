@@ -4,14 +4,14 @@ A lightweight AI-powered platform that provides basic property recommendations b
 
 ---
 
-## 🚀 Features 
+## Features 
 - 🏡 **Basic Property Recommendations** – Users get suggestions based on budget and location.
 - 🏙 **Neighborhood Insights** – Displays general safety ratings and nearby events.
 - 🔍 **Sentiment Analysis (Basic)** – Analyzes sample reviews for positive/negative feedback.
 
 ---
 
-## 🛠 Tech Stack 
+## Tech Stack 
 | **Technology**  | **Purpose** |
 |-----------------|------------|
 | **Frontend**    | React.js, Tailwind CSS |
@@ -22,7 +22,7 @@ A lightweight AI-powered platform that provides basic property recommendations b
 
 ---
 
-## 📌 Installation
+## Installation
 
 ### **1️⃣ Clone the Repository**
 ```sh
