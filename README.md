@@ -1,6 +1,6 @@
 # 🌍 Dynamic Neighborhood Insights 
 
-A lightweight AI-powered platform that provides basic property recommendations based on user preferences, past stays, and nearby events.
+A lightweight platform that provides property and neighborhood "vibe" recommendations based on user preferences, past stays, and nearby events.
 
 ---
 
