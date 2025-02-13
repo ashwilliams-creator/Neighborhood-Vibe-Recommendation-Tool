@@ -1,33 +1,25 @@
-# 🌍 Dynamic Neighborhood Insights
+# 🌍 Dynamic Neighborhood Insights (Simplified Version)
 
-A lightweight platform that provides property "vibe" recommendations based on user preferences, past stays, events nearby, and neighborhood insights.
+A lightweight AI-powered platform that provides basic property recommendations based on user preferences, past stays, and nearby events.
 
 ---
 
-## Features 
-- 🏡 **Basic Property Recommendations** – Users get suggestions based on budget and location.
-- 🏙 **Neighborhood Insights** – Displays general safety ratings and nearby events.
+## Features (Simplified)
+- 🏡 **Basic Property Recommendations** – Users get suggestions based on budget, location, and past stays.
+- 📍 **Nearby Events** – Displays upcoming events in the selected neighborhood.
+- 🏙 **Neighborhood Insights** – Shows general safety ratings and local trends.
 - 🔍 **Sentiment Analysis (Basic)** – Analyzes sample reviews for positive/negative feedback.
 
 ---
 
-## Tech Stack 
+## Tech Stack (Simplified)
 | **Technology**  | **Purpose** |
 |-----------------|------------|
 | **Frontend**    | React.js, Tailwind CSS |
 | **Backend**     | Node.js, Express.js |
 | **Database**    | PostgreSQL (or SQLite for simplicity) |
-| **Machine Learning** | Python (Scikit-learn for recommendations) |
-| **Mapping & Geolocation** | Google Maps API or OpenStreetMap |
+| **Machine Learning** | Python (Sc
 
----
-
-## Installation
-
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/dynamic-neighborhood-insights.git
-cd dynamic-neighborhood-insights
 
 ```sh
 git clone https://github.com/YOUR_GITHUB_USERNAME/dynamic-neighborhood-insights.git
